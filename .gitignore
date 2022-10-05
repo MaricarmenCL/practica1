@@ -1,0 +1,7 @@
+*.DS_Store
+scss/bootstrap
+js/bootstrap.min.js
+js/jquery.min.js
+js/popper.js
+css/
+# este es un comentario, pero debe ocupar una linea no despues de una instruccion
